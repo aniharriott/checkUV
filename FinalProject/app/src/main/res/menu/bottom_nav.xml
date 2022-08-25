@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/forecast_page"
+        android:contentDescription="forecast page"
+        android:enabled="true"
+        android:icon="@drawable/forecast_button"
+        android:title="" />
+    <item
+        android:id="@+id/personal_page"
+        android:contentDescription="personal page"
+        android:enabled="true"
+        android:icon="@drawable/personal_button"
+        android:title="" />
+    <item
+        android:id="@+id/settings_page"
+        android:contentDescription="settings page"
+        android:enabled="true"
+        android:icon="@drawable/settings_button"
+        android:title="" />
+</menu>
